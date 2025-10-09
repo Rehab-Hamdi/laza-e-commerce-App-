@@ -74,15 +74,15 @@ The app interacts with the following endpoints:
 git clone <your-repo-url>
 cd laza-e-commerce
 ```
-2. ## Install dependencies:
+2. **Install dependencies:
 ```
 flutter pub get
 ```
-3. ## Generate code (Retrofit, Freezed, JsonSerializable):
+3. **Generate code (Retrofit, Freezed, JsonSerializable):
 ```
 flutter pub run build_runner build --delete-conflicting-outputs
 ```
-4. ## Run the app:
+4. **Run the app:
 ```
 flutter run
 ```
